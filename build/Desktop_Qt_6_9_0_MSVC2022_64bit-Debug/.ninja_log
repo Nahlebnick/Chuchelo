@@ -1,0 +1,23 @@
+# ninja log v6
+33	448	7699506799216482	chuchelo_autogen/timestamp	354076ad99cd0e43
+33	448	7699506799216482	chuchelo_autogen/mocs_compilation.cpp	354076ad99cd0e43
+33	448	7699506799216482	C:/Users/Kw1nt0/OneDrive/Документы/chuchelo/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/chuchelo_autogen/timestamp	354076ad99cd0e43
+33	448	7699506799216482	C:/Users/Kw1nt0/OneDrive/Документы/chuchelo/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/chuchelo_autogen/mocs_compilation.cpp	354076ad99cd0e43
+463	3336	7699506799866475	CMakeFiles/chuchelo.dir/widget.cpp.obj	d75ec8e599cac07f
+467	3351	7699506799896706	CMakeFiles/chuchelo.dir/chuchelo.cpp.obj	2f81e7d37bfdf78f
+471	3361	7699506799937115	CMakeFiles/chuchelo.dir/game.cpp.obj	acd57f2bfb4e60d3
+459	3373	7699506799826590	CMakeFiles/chuchelo.dir/main.cpp.obj	d8520a49eca6e5c2
+455	3380	7699506799785106	CMakeFiles/chuchelo.dir/chuchelo_autogen/mocs_compilation.cpp.obj	f5930b286dfbb8de
+3380	3661	7699506829029993	chuchelo.exe	6a1ef7aba51dea8d
+99	3399	7699507776562554	CMakeFiles/chuchelo.dir/main.cpp.obj	d8520a49eca6e5c2
+105	3456	7699507776572517	CMakeFiles/chuchelo.dir/widget.cpp.obj	d75ec8e599cac07f
+122	3462	7699507776728814	CMakeFiles/chuchelo.dir/game.cpp.obj	acd57f2bfb4e60d3
+110	3469	7699507776572517	CMakeFiles/chuchelo.dir/chuchelo.cpp.obj	2f81e7d37bfdf78f
+92	3535	7699507776443229	CMakeFiles/chuchelo.dir/chuchelo_autogen/mocs_compilation.cpp.obj	f5930b286dfbb8de
+3536	3692	7699507810936126	chuchelo.exe	6a1ef7aba51dea8d
+107	3469	7699511417289815	CMakeFiles/chuchelo.dir/widget.cpp.obj	d75ec8e599cac07f
+118	3504	7699511417394929	CMakeFiles/chuchelo.dir/game.cpp.obj	acd57f2bfb4e60d3
+112	3511	7699511417346910	CMakeFiles/chuchelo.dir/chuchelo.cpp.obj	2f81e7d37bfdf78f
+91	3545	7699511417126463	CMakeFiles/chuchelo.dir/chuchelo_autogen/mocs_compilation.cpp.obj	f5930b286dfbb8de
+97	3555	7699511417196773	CMakeFiles/chuchelo.dir/main.cpp.obj	d8520a49eca6e5c2
+3555	3752	7699511451773656	chuchelo.exe	6a1ef7aba51dea8d
